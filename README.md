@@ -4,7 +4,7 @@
 ## Members
 1. Eros Prasetyo Putra Wijaya   163221032
 2. Raditya Prabaswara Hanggoro  163221067
-3. Mokhamad Rifqi Arkansyah     163231005
+3. Mokhamad Rifqi Arkansyah     162012233075
 
 ## Dataset
 ### Article
